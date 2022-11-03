@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "771458789020",
+    "project_id": "loginfirebase3-10ed2",
+    "storage_bucket": "loginfirebase3-10ed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771458789020:android:ee872a0d84f76b0f164759",
+        "android_client_info": {
+          "package_name": "com.example.economiza2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771458789020-ojtm37g2p1lr2i33pdk3norvo10prd2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lY2G8SSY0L5ELoKl6Zygy-UB5_6eRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771458789020-ojtm37g2p1lr2i33pdk3norvo10prd2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771458789020:android:50003ea2d5e023dc164759",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771458789020-ojtm37g2p1lr2i33pdk3norvo10prd2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7lY2G8SSY0L5ELoKl6Zygy-UB5_6eRzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771458789020-ojtm37g2p1lr2i33pdk3norvo10prd2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
